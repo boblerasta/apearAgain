@@ -21,4 +21,4 @@
 // @connect *
 // ==/UserScript==
 
-setTimeout(function(){document.getElementsByTagName("form")[0].style.display="block"}, 1000);
+setTimeout(function(){document.getElementsByTagName("form")[0].style.display="block"}, 3000);
